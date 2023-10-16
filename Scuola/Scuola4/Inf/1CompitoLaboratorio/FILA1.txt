@@ -1,0 +1,13 @@
+﻿a)Memorizzare i dati di un partecipante ad una gara campestre utilizzando la struttura dati adeguata.
+Definire i seguenti campi:
+1)numero di pettorale;
+2)nome;
+3)tempo impiegato espresso in ore, minuti e secondi.
+Visualizzare i dati inseriti ed effettuare tutti i controlli necessari sull'input.
+
+b) Completare l'applicazione in modo da permettere l'inserimento di più concorrenti e 
+lo svolgimento delle seguenti operazioni:
+1) inserimento dati di un concorrente;
+2) visualizzazione di tutti i partecipanti presenti in archivio;
+3) ricerca di un concorrente dato il numero di pettorale;
+4) classifica finale.
